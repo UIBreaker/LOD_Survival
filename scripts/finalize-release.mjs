@@ -1,4 +1,4 @@
-import { access, copyFile, readdir, rename, rm } from 'node:fs/promises';
+import { access, copyFile, mkdir, readdir, rename, rm } from 'node:fs/promises';
 import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -8,6 +8,7 @@ const output = join(release, 'LOD_SURVIVAL.exe');
 const next = join(packed, '.next.exe');
 
 if (process.argv[2] !== '--cleanup-only') {
+  await mkdir(release, { recursive: true });
   await copyFile(join(packed, 'LOD_SURVIVAL.exe'), next);
   await rename(next, output);
 }

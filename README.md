@@ -23,7 +23,7 @@ File portable là `release/LOD_SURVIVAL.exe`. Mỗi lần đóng gói thành cô
 
 ## Android
 
-Game dùng Capacitor 8. Cần Node.js 22+, JDK 17 và Android SDK API 36. Build APK thử nghiệm:
+Game dùng Capacitor 8. Cần Node.js 22+, JDK 21 và Android SDK API 36. Build APK thử nghiệm:
 
 ```powershell
 npm run android:sync
