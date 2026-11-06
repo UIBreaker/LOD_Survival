@@ -1,0 +1,1295 @@
+{
+  "frames": {
+    "fire-fire-tornado_000.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_001.png": {
+      "frame": {
+        "x": 120,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_002.png": {
+      "frame": {
+        "x": 240,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_003.png": {
+      "frame": {
+        "x": 360,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_004.png": {
+      "frame": {
+        "x": 480,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_005.png": {
+      "frame": {
+        "x": 600,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_006.png": {
+      "frame": {
+        "x": 720,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_007.png": {
+      "frame": {
+        "x": 840,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_008.png": {
+      "frame": {
+        "x": 960,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_009.png": {
+      "frame": {
+        "x": 1080,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_010.png": {
+      "frame": {
+        "x": 1200,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_011.png": {
+      "frame": {
+        "x": 1320,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_012.png": {
+      "frame": {
+        "x": 1440,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_013.png": {
+      "frame": {
+        "x": 1560,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_014.png": {
+      "frame": {
+        "x": 1680,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_015.png": {
+      "frame": {
+        "x": 1800,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_016.png": {
+      "frame": {
+        "x": 0,
+        "y": 152,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_017.png": {
+      "frame": {
+        "x": 120,
+        "y": 152,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_018.png": {
+      "frame": {
+        "x": 240,
+        "y": 152,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_019.png": {
+      "frame": {
+        "x": 360,
+        "y": 152,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_020.png": {
+      "frame": {
+        "x": 480,
+        "y": 152,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_021.png": {
+      "frame": {
+        "x": 600,
+        "y": 152,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_022.png": {
+      "frame": {
+        "x": 720,
+        "y": 152,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_023.png": {
+      "frame": {
+        "x": 840,
+        "y": 152,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_024.png": {
+      "frame": {
+        "x": 960,
+        "y": 152,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_025.png": {
+      "frame": {
+        "x": 1080,
+        "y": 152,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_026.png": {
+      "frame": {
+        "x": 1200,
+        "y": 152,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_027.png": {
+      "frame": {
+        "x": 1320,
+        "y": 152,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_028.png": {
+      "frame": {
+        "x": 1440,
+        "y": 152,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_029.png": {
+      "frame": {
+        "x": 1560,
+        "y": 152,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_030.png": {
+      "frame": {
+        "x": 1680,
+        "y": 152,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_031.png": {
+      "frame": {
+        "x": 1800,
+        "y": 152,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_032.png": {
+      "frame": {
+        "x": 0,
+        "y": 304,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_033.png": {
+      "frame": {
+        "x": 120,
+        "y": 304,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_034.png": {
+      "frame": {
+        "x": 240,
+        "y": 304,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_035.png": {
+      "frame": {
+        "x": 360,
+        "y": 304,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_036.png": {
+      "frame": {
+        "x": 480,
+        "y": 304,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_037.png": {
+      "frame": {
+        "x": 600,
+        "y": 304,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_038.png": {
+      "frame": {
+        "x": 720,
+        "y": 304,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_039.png": {
+      "frame": {
+        "x": 840,
+        "y": 304,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_040.png": {
+      "frame": {
+        "x": 960,
+        "y": 304,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_041.png": {
+      "frame": {
+        "x": 1080,
+        "y": 304,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_042.png": {
+      "frame": {
+        "x": 1200,
+        "y": 304,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_043.png": {
+      "frame": {
+        "x": 1320,
+        "y": 304,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_044.png": {
+      "frame": {
+        "x": 1440,
+        "y": 304,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_045.png": {
+      "frame": {
+        "x": 1560,
+        "y": 304,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_046.png": {
+      "frame": {
+        "x": 1680,
+        "y": 304,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_047.png": {
+      "frame": {
+        "x": 1800,
+        "y": 304,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_048.png": {
+      "frame": {
+        "x": 0,
+        "y": 456,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_049.png": {
+      "frame": {
+        "x": 120,
+        "y": 456,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_050.png": {
+      "frame": {
+        "x": 240,
+        "y": 456,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_051.png": {
+      "frame": {
+        "x": 360,
+        "y": 456,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_052.png": {
+      "frame": {
+        "x": 480,
+        "y": 456,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_053.png": {
+      "frame": {
+        "x": 600,
+        "y": 456,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_054.png": {
+      "frame": {
+        "x": 720,
+        "y": 456,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_055.png": {
+      "frame": {
+        "x": 840,
+        "y": 456,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_056.png": {
+      "frame": {
+        "x": 960,
+        "y": 456,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_057.png": {
+      "frame": {
+        "x": 1080,
+        "y": 456,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_058.png": {
+      "frame": {
+        "x": 1200,
+        "y": 456,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    },
+    "fire-fire-tornado_059.png": {
+      "frame": {
+        "x": 1320,
+        "y": 456,
+        "w": 120,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 152
+      },
+      "duration": 33
+    }
+  },
+  "meta": {
+    "app": "PixelFX Studio + patch-gg/pixelfx",
+    "version": "1.0",
+    "image": "fire-fire-tornado_sheet.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1920,
+      "h": 608
+    },
+    "scale": "1",
+    "frameTags": [
+      {
+        "name": "default",
+        "from": 0,
+        "to": 59,
+        "direction": "forward"
+      }
+    ],
+    "pixelfx": {
+      "id": "fire/fire-tornado",
+      "fps": 30,
+      "loop": true,
+      "columns": 16,
+      "pivot": [
+        60,
+        136
+      ],
+      "mode": "fx",
+      "duration": 2
+    }
+  }
+}

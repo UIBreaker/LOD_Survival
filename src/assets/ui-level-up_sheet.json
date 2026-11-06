@@ -1,0 +1,959 @@
+{
+  "frames": {
+    "ui-level-up_000.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_001.png": {
+      "frame": {
+        "x": 200,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_002.png": {
+      "frame": {
+        "x": 400,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_003.png": {
+      "frame": {
+        "x": 600,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_004.png": {
+      "frame": {
+        "x": 800,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_005.png": {
+      "frame": {
+        "x": 1000,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_006.png": {
+      "frame": {
+        "x": 1200,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_007.png": {
+      "frame": {
+        "x": 1400,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_008.png": {
+      "frame": {
+        "x": 1600,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_009.png": {
+      "frame": {
+        "x": 1800,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_010.png": {
+      "frame": {
+        "x": 2000,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_011.png": {
+      "frame": {
+        "x": 2200,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_012.png": {
+      "frame": {
+        "x": 0,
+        "y": 162,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_013.png": {
+      "frame": {
+        "x": 200,
+        "y": 162,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_014.png": {
+      "frame": {
+        "x": 400,
+        "y": 162,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_015.png": {
+      "frame": {
+        "x": 600,
+        "y": 162,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_016.png": {
+      "frame": {
+        "x": 800,
+        "y": 162,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_017.png": {
+      "frame": {
+        "x": 1000,
+        "y": 162,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_018.png": {
+      "frame": {
+        "x": 1200,
+        "y": 162,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_019.png": {
+      "frame": {
+        "x": 1400,
+        "y": 162,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_020.png": {
+      "frame": {
+        "x": 1600,
+        "y": 162,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_021.png": {
+      "frame": {
+        "x": 1800,
+        "y": 162,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_022.png": {
+      "frame": {
+        "x": 2000,
+        "y": 162,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_023.png": {
+      "frame": {
+        "x": 2200,
+        "y": 162,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_024.png": {
+      "frame": {
+        "x": 0,
+        "y": 324,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_025.png": {
+      "frame": {
+        "x": 200,
+        "y": 324,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_026.png": {
+      "frame": {
+        "x": 400,
+        "y": 324,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_027.png": {
+      "frame": {
+        "x": 600,
+        "y": 324,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_028.png": {
+      "frame": {
+        "x": 800,
+        "y": 324,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_029.png": {
+      "frame": {
+        "x": 1000,
+        "y": 324,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_030.png": {
+      "frame": {
+        "x": 1200,
+        "y": 324,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_031.png": {
+      "frame": {
+        "x": 1400,
+        "y": 324,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_032.png": {
+      "frame": {
+        "x": 1600,
+        "y": 324,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_033.png": {
+      "frame": {
+        "x": 1800,
+        "y": 324,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_034.png": {
+      "frame": {
+        "x": 2000,
+        "y": 324,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_035.png": {
+      "frame": {
+        "x": 2200,
+        "y": 324,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_036.png": {
+      "frame": {
+        "x": 0,
+        "y": 486,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_037.png": {
+      "frame": {
+        "x": 200,
+        "y": 486,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_038.png": {
+      "frame": {
+        "x": 400,
+        "y": 486,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_039.png": {
+      "frame": {
+        "x": 600,
+        "y": 486,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_040.png": {
+      "frame": {
+        "x": 800,
+        "y": 486,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_041.png": {
+      "frame": {
+        "x": 1000,
+        "y": 486,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_042.png": {
+      "frame": {
+        "x": 1200,
+        "y": 486,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    },
+    "ui-level-up_043.png": {
+      "frame": {
+        "x": 1400,
+        "y": 486,
+        "w": 200,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 162
+      },
+      "duration": 83
+    }
+  },
+  "meta": {
+    "app": "PixelFX Studio + patch-gg/pixelfx",
+    "version": "1.0",
+    "image": "ui-level-up_sheet.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2400,
+      "h": 648
+    },
+    "scale": "1",
+    "frameTags": [
+      {
+        "name": "default",
+        "from": 0,
+        "to": 43,
+        "direction": "forward"
+      }
+    ],
+    "pixelfx": {
+      "id": "ui/level-up",
+      "fps": 12,
+      "loop": false,
+      "columns": 12,
+      "pivot": [
+        100,
+        126
+      ],
+      "mode": "act",
+      "duration": 3.65
+    }
+  }
+}

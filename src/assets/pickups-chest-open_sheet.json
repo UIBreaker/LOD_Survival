@@ -1,0 +1,2933 @@
+{
+  "frames": {
+    "pickups-chest-open_000.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_001.png": {
+      "frame": {
+        "x": 176,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_002.png": {
+      "frame": {
+        "x": 352,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_003.png": {
+      "frame": {
+        "x": 528,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_004.png": {
+      "frame": {
+        "x": 704,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_005.png": {
+      "frame": {
+        "x": 880,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_006.png": {
+      "frame": {
+        "x": 1056,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_007.png": {
+      "frame": {
+        "x": 1232,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_008.png": {
+      "frame": {
+        "x": 1408,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_009.png": {
+      "frame": {
+        "x": 1584,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_010.png": {
+      "frame": {
+        "x": 1760,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_011.png": {
+      "frame": {
+        "x": 1936,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_012.png": {
+      "frame": {
+        "x": 2112,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_013.png": {
+      "frame": {
+        "x": 2288,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_014.png": {
+      "frame": {
+        "x": 2464,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_015.png": {
+      "frame": {
+        "x": 2640,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_016.png": {
+      "frame": {
+        "x": 0,
+        "y": 112,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_017.png": {
+      "frame": {
+        "x": 176,
+        "y": 112,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_018.png": {
+      "frame": {
+        "x": 352,
+        "y": 112,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_019.png": {
+      "frame": {
+        "x": 528,
+        "y": 112,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_020.png": {
+      "frame": {
+        "x": 704,
+        "y": 112,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_021.png": {
+      "frame": {
+        "x": 880,
+        "y": 112,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_022.png": {
+      "frame": {
+        "x": 1056,
+        "y": 112,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_023.png": {
+      "frame": {
+        "x": 1232,
+        "y": 112,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_024.png": {
+      "frame": {
+        "x": 1408,
+        "y": 112,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_025.png": {
+      "frame": {
+        "x": 1584,
+        "y": 112,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_026.png": {
+      "frame": {
+        "x": 1760,
+        "y": 112,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_027.png": {
+      "frame": {
+        "x": 1936,
+        "y": 112,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_028.png": {
+      "frame": {
+        "x": 2112,
+        "y": 112,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_029.png": {
+      "frame": {
+        "x": 2288,
+        "y": 112,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_030.png": {
+      "frame": {
+        "x": 2464,
+        "y": 112,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_031.png": {
+      "frame": {
+        "x": 2640,
+        "y": 112,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_032.png": {
+      "frame": {
+        "x": 0,
+        "y": 224,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_033.png": {
+      "frame": {
+        "x": 176,
+        "y": 224,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_034.png": {
+      "frame": {
+        "x": 352,
+        "y": 224,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_035.png": {
+      "frame": {
+        "x": 528,
+        "y": 224,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_036.png": {
+      "frame": {
+        "x": 704,
+        "y": 224,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_037.png": {
+      "frame": {
+        "x": 880,
+        "y": 224,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_038.png": {
+      "frame": {
+        "x": 1056,
+        "y": 224,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_039.png": {
+      "frame": {
+        "x": 1232,
+        "y": 224,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_040.png": {
+      "frame": {
+        "x": 1408,
+        "y": 224,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_041.png": {
+      "frame": {
+        "x": 1584,
+        "y": 224,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_042.png": {
+      "frame": {
+        "x": 1760,
+        "y": 224,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_043.png": {
+      "frame": {
+        "x": 1936,
+        "y": 224,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_044.png": {
+      "frame": {
+        "x": 2112,
+        "y": 224,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_045.png": {
+      "frame": {
+        "x": 2288,
+        "y": 224,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_046.png": {
+      "frame": {
+        "x": 2464,
+        "y": 224,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_047.png": {
+      "frame": {
+        "x": 2640,
+        "y": 224,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_048.png": {
+      "frame": {
+        "x": 0,
+        "y": 336,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_049.png": {
+      "frame": {
+        "x": 176,
+        "y": 336,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_050.png": {
+      "frame": {
+        "x": 352,
+        "y": 336,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_051.png": {
+      "frame": {
+        "x": 528,
+        "y": 336,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_052.png": {
+      "frame": {
+        "x": 704,
+        "y": 336,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_053.png": {
+      "frame": {
+        "x": 880,
+        "y": 336,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_054.png": {
+      "frame": {
+        "x": 1056,
+        "y": 336,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_055.png": {
+      "frame": {
+        "x": 1232,
+        "y": 336,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_056.png": {
+      "frame": {
+        "x": 1408,
+        "y": 336,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_057.png": {
+      "frame": {
+        "x": 1584,
+        "y": 336,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_058.png": {
+      "frame": {
+        "x": 1760,
+        "y": 336,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_059.png": {
+      "frame": {
+        "x": 1936,
+        "y": 336,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_060.png": {
+      "frame": {
+        "x": 2112,
+        "y": 336,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_061.png": {
+      "frame": {
+        "x": 2288,
+        "y": 336,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_062.png": {
+      "frame": {
+        "x": 2464,
+        "y": 336,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_063.png": {
+      "frame": {
+        "x": 2640,
+        "y": 336,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_064.png": {
+      "frame": {
+        "x": 0,
+        "y": 448,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_065.png": {
+      "frame": {
+        "x": 176,
+        "y": 448,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_066.png": {
+      "frame": {
+        "x": 352,
+        "y": 448,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_067.png": {
+      "frame": {
+        "x": 528,
+        "y": 448,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_068.png": {
+      "frame": {
+        "x": 704,
+        "y": 448,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_069.png": {
+      "frame": {
+        "x": 880,
+        "y": 448,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_070.png": {
+      "frame": {
+        "x": 1056,
+        "y": 448,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_071.png": {
+      "frame": {
+        "x": 1232,
+        "y": 448,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_072.png": {
+      "frame": {
+        "x": 1408,
+        "y": 448,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_073.png": {
+      "frame": {
+        "x": 1584,
+        "y": 448,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_074.png": {
+      "frame": {
+        "x": 1760,
+        "y": 448,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_075.png": {
+      "frame": {
+        "x": 1936,
+        "y": 448,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_076.png": {
+      "frame": {
+        "x": 2112,
+        "y": 448,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_077.png": {
+      "frame": {
+        "x": 2288,
+        "y": 448,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_078.png": {
+      "frame": {
+        "x": 2464,
+        "y": 448,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_079.png": {
+      "frame": {
+        "x": 2640,
+        "y": 448,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_080.png": {
+      "frame": {
+        "x": 0,
+        "y": 560,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_081.png": {
+      "frame": {
+        "x": 176,
+        "y": 560,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_082.png": {
+      "frame": {
+        "x": 352,
+        "y": 560,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_083.png": {
+      "frame": {
+        "x": 528,
+        "y": 560,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_084.png": {
+      "frame": {
+        "x": 704,
+        "y": 560,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_085.png": {
+      "frame": {
+        "x": 880,
+        "y": 560,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_086.png": {
+      "frame": {
+        "x": 1056,
+        "y": 560,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_087.png": {
+      "frame": {
+        "x": 1232,
+        "y": 560,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_088.png": {
+      "frame": {
+        "x": 1408,
+        "y": 560,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_089.png": {
+      "frame": {
+        "x": 1584,
+        "y": 560,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_090.png": {
+      "frame": {
+        "x": 1760,
+        "y": 560,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_091.png": {
+      "frame": {
+        "x": 1936,
+        "y": 560,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_092.png": {
+      "frame": {
+        "x": 2112,
+        "y": 560,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_093.png": {
+      "frame": {
+        "x": 2288,
+        "y": 560,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_094.png": {
+      "frame": {
+        "x": 2464,
+        "y": 560,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_095.png": {
+      "frame": {
+        "x": 2640,
+        "y": 560,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_096.png": {
+      "frame": {
+        "x": 0,
+        "y": 672,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_097.png": {
+      "frame": {
+        "x": 176,
+        "y": 672,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_098.png": {
+      "frame": {
+        "x": 352,
+        "y": 672,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_099.png": {
+      "frame": {
+        "x": 528,
+        "y": 672,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_100.png": {
+      "frame": {
+        "x": 704,
+        "y": 672,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_101.png": {
+      "frame": {
+        "x": 880,
+        "y": 672,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_102.png": {
+      "frame": {
+        "x": 1056,
+        "y": 672,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_103.png": {
+      "frame": {
+        "x": 1232,
+        "y": 672,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_104.png": {
+      "frame": {
+        "x": 1408,
+        "y": 672,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_105.png": {
+      "frame": {
+        "x": 1584,
+        "y": 672,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_106.png": {
+      "frame": {
+        "x": 1760,
+        "y": 672,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_107.png": {
+      "frame": {
+        "x": 1936,
+        "y": 672,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_108.png": {
+      "frame": {
+        "x": 2112,
+        "y": 672,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_109.png": {
+      "frame": {
+        "x": 2288,
+        "y": 672,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_110.png": {
+      "frame": {
+        "x": 2464,
+        "y": 672,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_111.png": {
+      "frame": {
+        "x": 2640,
+        "y": 672,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_112.png": {
+      "frame": {
+        "x": 0,
+        "y": 784,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_113.png": {
+      "frame": {
+        "x": 176,
+        "y": 784,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_114.png": {
+      "frame": {
+        "x": 352,
+        "y": 784,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_115.png": {
+      "frame": {
+        "x": 528,
+        "y": 784,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_116.png": {
+      "frame": {
+        "x": 704,
+        "y": 784,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_117.png": {
+      "frame": {
+        "x": 880,
+        "y": 784,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_118.png": {
+      "frame": {
+        "x": 1056,
+        "y": 784,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_119.png": {
+      "frame": {
+        "x": 1232,
+        "y": 784,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_120.png": {
+      "frame": {
+        "x": 1408,
+        "y": 784,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_121.png": {
+      "frame": {
+        "x": 1584,
+        "y": 784,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_122.png": {
+      "frame": {
+        "x": 1760,
+        "y": 784,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_123.png": {
+      "frame": {
+        "x": 1936,
+        "y": 784,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_124.png": {
+      "frame": {
+        "x": 2112,
+        "y": 784,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_125.png": {
+      "frame": {
+        "x": 2288,
+        "y": 784,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_126.png": {
+      "frame": {
+        "x": 2464,
+        "y": 784,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_127.png": {
+      "frame": {
+        "x": 2640,
+        "y": 784,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_128.png": {
+      "frame": {
+        "x": 0,
+        "y": 896,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_129.png": {
+      "frame": {
+        "x": 176,
+        "y": 896,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_130.png": {
+      "frame": {
+        "x": 352,
+        "y": 896,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_131.png": {
+      "frame": {
+        "x": 528,
+        "y": 896,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_132.png": {
+      "frame": {
+        "x": 704,
+        "y": 896,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_133.png": {
+      "frame": {
+        "x": 880,
+        "y": 896,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_134.png": {
+      "frame": {
+        "x": 1056,
+        "y": 896,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_135.png": {
+      "frame": {
+        "x": 1232,
+        "y": 896,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_136.png": {
+      "frame": {
+        "x": 1408,
+        "y": 896,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    },
+    "pickups-chest-open_137.png": {
+      "frame": {
+        "x": 1584,
+        "y": 896,
+        "w": 176,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 112
+      },
+      "duration": 33
+    }
+  },
+  "meta": {
+    "app": "PixelFX Studio + patch-gg/pixelfx",
+    "version": "1.0",
+    "image": "pickups-chest-open_sheet.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2816,
+      "h": 1008
+    },
+    "scale": "1",
+    "frameTags": [
+      {
+        "name": "default",
+        "from": 0,
+        "to": 137,
+        "direction": "forward"
+      }
+    ],
+    "pixelfx": {
+      "id": "pickups/chest-open",
+      "fps": 30,
+      "loop": false,
+      "columns": 16,
+      "pivot": [
+        88,
+        96
+      ],
+      "mode": "fx",
+      "duration": 4.6
+    }
+  }
+}

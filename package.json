@@ -1,0 +1,47 @@
+{
+  "name": "lod-survival",
+  "version": "0.24.2",
+  "private": true,
+  "type": "module",
+  "main": "electron.cjs",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "check": "node scripts/check.mjs",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "start": "electron .",
+    "pack:win": "npm run build && electron-builder --win portable && node scripts/finalize-release.mjs",
+    "android:sync": "npm run build && cap sync android"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.6.0",
+    "@fontsource/press-start-2p": "^5.3.0",
+    "electron": "^39.1.0",
+    "electron-builder": "^26.0.12",
+    "pixelfx": "github:patch-gg/pixelfx",
+    "vite": "^7.2.0"
+  },
+  "build": {
+    "appId": "com.uibreaker.lodsurvival",
+    "productName": "LOD_SURVIVAL",
+    "electronDist": "node_modules/electron/dist",
+    "directories": {
+      "output": ".pack"
+    },
+    "files": [
+      "dist/**/*",
+      "electron.cjs",
+      "package.json",
+      "THIRD_PARTY_LICENSES.md",
+      "PRESS_START_2P_LICENSE.txt"
+    ],
+    "win": {
+      "target": "portable",
+      "artifactName": "LOD_SURVIVAL.exe"
+    }
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.6.0",
+    "@capacitor/core": "^8.6.0"
+  }
+}

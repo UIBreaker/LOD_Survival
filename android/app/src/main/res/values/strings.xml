@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">LOD_SURVIVAL</string>
+    <string name="title_activity_main">LOD_SURVIVAL</string>
+    <string name="package_name">com.uibreaker.lodsurvival</string>
+    <string name="custom_url_scheme">com.uibreaker.lodsurvival</string>
+</resources>

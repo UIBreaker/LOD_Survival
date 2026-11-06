@@ -1,0 +1,1022 @@
+{
+  "frames": {
+    "fire-fire-ring_000.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_001.png": {
+      "frame": {
+        "x": 224,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_002.png": {
+      "frame": {
+        "x": 448,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_003.png": {
+      "frame": {
+        "x": 672,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_004.png": {
+      "frame": {
+        "x": 896,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_005.png": {
+      "frame": {
+        "x": 1120,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_006.png": {
+      "frame": {
+        "x": 1344,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_007.png": {
+      "frame": {
+        "x": 1568,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_008.png": {
+      "frame": {
+        "x": 1792,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_009.png": {
+      "frame": {
+        "x": 2016,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_010.png": {
+      "frame": {
+        "x": 2240,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_011.png": {
+      "frame": {
+        "x": 2464,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_012.png": {
+      "frame": {
+        "x": 0,
+        "y": 128,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_013.png": {
+      "frame": {
+        "x": 224,
+        "y": 128,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_014.png": {
+      "frame": {
+        "x": 448,
+        "y": 128,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_015.png": {
+      "frame": {
+        "x": 672,
+        "y": 128,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_016.png": {
+      "frame": {
+        "x": 896,
+        "y": 128,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_017.png": {
+      "frame": {
+        "x": 1120,
+        "y": 128,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_018.png": {
+      "frame": {
+        "x": 1344,
+        "y": 128,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_019.png": {
+      "frame": {
+        "x": 1568,
+        "y": 128,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_020.png": {
+      "frame": {
+        "x": 1792,
+        "y": 128,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_021.png": {
+      "frame": {
+        "x": 2016,
+        "y": 128,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_022.png": {
+      "frame": {
+        "x": 2240,
+        "y": 128,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_023.png": {
+      "frame": {
+        "x": 2464,
+        "y": 128,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_024.png": {
+      "frame": {
+        "x": 0,
+        "y": 256,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_025.png": {
+      "frame": {
+        "x": 224,
+        "y": 256,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_026.png": {
+      "frame": {
+        "x": 448,
+        "y": 256,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_027.png": {
+      "frame": {
+        "x": 672,
+        "y": 256,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_028.png": {
+      "frame": {
+        "x": 896,
+        "y": 256,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_029.png": {
+      "frame": {
+        "x": 1120,
+        "y": 256,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_030.png": {
+      "frame": {
+        "x": 1344,
+        "y": 256,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_031.png": {
+      "frame": {
+        "x": 1568,
+        "y": 256,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_032.png": {
+      "frame": {
+        "x": 1792,
+        "y": 256,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_033.png": {
+      "frame": {
+        "x": 2016,
+        "y": 256,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_034.png": {
+      "frame": {
+        "x": 2240,
+        "y": 256,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_035.png": {
+      "frame": {
+        "x": 2464,
+        "y": 256,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_036.png": {
+      "frame": {
+        "x": 0,
+        "y": 384,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_037.png": {
+      "frame": {
+        "x": 224,
+        "y": 384,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_038.png": {
+      "frame": {
+        "x": 448,
+        "y": 384,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_039.png": {
+      "frame": {
+        "x": 672,
+        "y": 384,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_040.png": {
+      "frame": {
+        "x": 896,
+        "y": 384,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_041.png": {
+      "frame": {
+        "x": 1120,
+        "y": 384,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_042.png": {
+      "frame": {
+        "x": 1344,
+        "y": 384,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_043.png": {
+      "frame": {
+        "x": 1568,
+        "y": 384,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_044.png": {
+      "frame": {
+        "x": 1792,
+        "y": 384,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_045.png": {
+      "frame": {
+        "x": 2016,
+        "y": 384,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    },
+    "fire-fire-ring_046.png": {
+      "frame": {
+        "x": 2240,
+        "y": 384,
+        "w": 224,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 128
+      },
+      "duration": 83
+    }
+  },
+  "meta": {
+    "app": "PixelFX Studio + patch-gg/pixelfx",
+    "version": "1.0",
+    "image": "fire-fire-ring_sheet.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2688,
+      "h": 512
+    },
+    "scale": "1",
+    "frameTags": [
+      {
+        "name": "default",
+        "from": 0,
+        "to": 46,
+        "direction": "forward"
+      }
+    ],
+    "pixelfx": {
+      "id": "fire/fire-ring",
+      "fps": 12,
+      "loop": false,
+      "columns": 12,
+      "pivot": [
+        112,
+        92
+      ],
+      "mode": "fx",
+      "duration": 3.9
+    }
+  }
+}

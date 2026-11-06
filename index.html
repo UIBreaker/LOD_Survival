@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="vi"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover"><title>LOD_SURVIVAL</title></head>
+<body>
+  <div id="shell">
+    <header><div class="brand"><span class="flame">✦</span> LOD<em>_SURVIVAL</em></div><div class="header-actions"><div id="wave-label">WAVE 01</div><button id="character-stats" aria-label="Thông tin chỉ số nhân vật" title="Chỉ số nhân vật (C)">CHỈ SỐ</button><button id="fullscreen" aria-label="Toàn màn hình" title="Toàn màn hình (F11)">⛶</button><button id="pause" aria-label="Tạm dừng">Ⅱ</button></div></header>
+    <div class="hud"><div class="meter"><b>♥ HP <span id="hp-text">100 / 100</span></b><div class="bar"><i id="hp-bar"></i><i id="hp-lag"></i></div></div><div class="meter xp"><b>✦ LV <span id="level">1</span></b><div class="bar"><i id="xp-bar"></i></div></div><div class="stats"><span>◈ <b id="coins">0</b></span><span>★ <b id="score">0</b></span><span>◷ <b id="time">00:00</b></span></div><div class="spellbar"><div class="spell" id="tornado-status"><b>Q · LỐC XOÁY</b><span>SẴN SÀNG</span><i></i></div><div class="spell" id="breath-status"><b>E · PHUN LỬA</b><span>SẴN SÀNG</span><i></i></div><div class="spell" id="ring-status"><b>R · VÒNG LỬA</b><span>SẴN SÀNG</span><i></i></div></div></div>
+    <main><canvas id="game" width="960" height="540" aria-label="Trò chơi LOD_SURVIVAL"></canvas><div id="overlay" class="overlay"></div><div id="touch-controls"><div id="joystick" aria-label="Di chuyển"><div id="joystick-knob"></div></div><div class="touch-actions"><button id="touch-dash" aria-label="Lướt né">LƯỚT</button><button id="touch-q" aria-label="Lốc xoáy">Q</button><button id="touch-e" aria-label="Phun lửa">E</button><button id="touch-r" aria-label="Vòng lửa">R</button></div></div></main>
+    <footer><span><kbd>WASD</kbd> di chuyển &nbsp; <kbd>CHUỘT</kbd> ngắm & bắn &nbsp; <kbd>SPACE</kbd> lướt né &nbsp; <kbd>Q</kbd> lốc xoáy &nbsp; <kbd>E</kbd> phun lửa &nbsp; <kbd>R</kbd> vòng lửa</span><span><kbd>C</kbd> chỉ số &nbsp; <kbd>ESC</kbd> tạm dừng &nbsp; <kbd>F11</kbd> toàn màn hình</span></footer>
+  </div>
+  <script type="module" src="/src/game.js"></script>
+</body></html>
